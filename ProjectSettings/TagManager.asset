@@ -1,0 +1,75 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Enemy
+  - Obstacle
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - 
+  - 
+  - Post
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Door
+    uniqueID: 4238584543
+    locked: 0
+  - name: Platform
+    uniqueID: 3938257259
+    locked: 0
+  - name: Barrel
+    uniqueID: 4055929229
+    locked: 0
+  - name: Enemy
+    uniqueID: 2708987285
+    locked: 0
+  - name: Player
+    uniqueID: 2875553141
+    locked: 0
+  - name: Weapon
+    uniqueID: 3974917995
+    locked: 0
+  - name: Bullet
+    uniqueID: 1859102109
+    locked: 0
+  - name: Ground
+    uniqueID: 1165100997
+    locked: 0
+  - name: Lava
+    uniqueID: 3848612653
+    locked: 0
+  - name: Effect
+    uniqueID: 875260273
+    locked: 0
