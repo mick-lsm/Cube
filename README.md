@@ -11,3 +11,5 @@ E to pick up weapon surrounded
 R to switch weapon
 
 Shift to squat down
+
+Try to get your highest score!!!
